@@ -1,0 +1,45 @@
+#ActuCasting {
+	width:100%;
+	height:40px;
+	border-right:#CCC solid 1px;
+	background:#A8A8A8;
+	float:left;
+	margin-left:0%;
+	margin-top:0.5;
+}
+
+#Pop {
+	color:#FFF;
+	cursor:pointer;
+	float:left;
+	padding-top:08px;
+	font-size:20px;
+	height:79%;
+	width:15%;
+	text-align:center;
+	border-left:1px #FFFFFF solid;
+}
+
+#Pop:hover {
+	color:#0080FF;
+	background-color:#FFF;
+}
+
+#Nou {
+	color:#FFF;
+	cursor:pointer;
+	float:left;
+	margin-right:2%;
+	padding-top:08px;
+	font-size:20px;
+	height:79%;
+	width:15%;
+	text-align:center;
+	border-left:1px #FFFFFF solid;
+	border-right:1px #FFFFFF solid;
+}
+
+#Nou:hover {
+	color:#0080FF;
+	background-color:#FFF;
+}

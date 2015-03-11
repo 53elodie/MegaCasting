@@ -1,0 +1,158 @@
+/* CSS Document */
+
+#BlocInfo{
+	float: left;
+	background-color:#A8A8A8;
+	width:101%;
+	height: 50px;
+	margin-top: 3%;
+	margin-left: -0.5%;
+}
+
+#MIE {
+	float: left;
+	margin-right: 2%;
+	margin-top: 1%;
+	margin-left: 5.5%;
+	font-size: 18px;
+	color:#FFFFFF;
+	font-family: cursive;
+}
+
+#Email {
+	float: left;
+	margin-top: 0.8%;
+	width: 25%;
+	height: 50%;
+	font-size: 18px;
+	font-family: cursive;
+	color:#0080FF;
+	padding-left: 1%;
+}
+
+#BlocBot {
+	background-color:#CFCFCF;
+	width:101%;
+	height:299px;
+	margin-left: -0.5%;
+	text-align:center;
+	float: left;
+}
+
+#BlocFb {
+	background-color:#CFCFCF;
+	font-size:18px;
+	font-weight:bold;
+	float:left;
+	margin-left: 4.3%;
+	margin-top: 0.5%;
+	height: 95%;
+	width: 25%;
+}
+
+#SecondBlocFb {
+	background-color:#FFFFFF;
+	font-size:18px;
+	font-weight:bold;
+	float:left;
+	margin-left: 5.5%;
+	margin-top: 2.2%;
+	height: 95%;
+	width: 89%;
+}
+
+#BlocDonne {
+	float:left;
+	color: #000000;
+	margin-top: 1%;
+}
+
+#Information{
+	float:left;
+	border-left: 1px #000 solid;
+	height: 270px;
+	width: 300px;
+}
+
+#info{
+	float: left;
+	height: 41px;
+	width: 298px;
+	padding-left: -10%;
+	padding-top: 5%;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#ul1{
+	margin-top: 18.4%;
+}
+
+#li1{
+	margin-left: -8%;
+	margin-bottom: 4%;
+	margin-top: 3%;
+}
+#li2{
+	margin-left: 2%;
+	margin-bottom: 4%;
+}
+#li3{
+	margin-left: 0.5%;
+	margin-bottom: 4%;
+}
+#li4{
+	margin-left: -3.1%;
+	margin-bottom: 4%;
+}
+#li5{
+	margin-left: -0.2%;
+	margin-bottom: 4%;
+}
+#li6{
+	margin-left: 15%;
+	margin-bottom: 4%;
+}
+
+#Compte{
+	float:left;
+	height: 270px;
+	width: 200px;
+}
+
+#Comp{
+	float: left;
+	height: 41px;
+	width: 200px;
+	padding-left: -10%;
+	padding-top: 8%;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#ul2{
+	margin-top: 18%;
+}
+
+#li7{
+	margin-left: 1%;
+	margin-bottom: 4%;
+	margin-top: 3%;
+}
+#li8{
+	margin-left: -23%;
+	margin-bottom: 4%;
+}
+#li9{
+	margin-left: -15%;
+	margin-bottom: 4%;
+}
+#li10{
+	width: 200px;
+	margin-left: 14%;
+	margin-bottom: 4%;
+}
+#li11{
+	margin-left: -17%;
+	margin-bottom: 4%;
+}
