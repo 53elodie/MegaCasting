@@ -1,0 +1,91 @@
+#BlocRecherche{
+	margin-top: 2%;
+	margin-left: 2.5%;
+	background-color:#CFCFCF;
+	float: left;
+	width: 45%;
+	height: 300px;
+	margin-left: 27.5%;
+	border: 1px #000 solid
+}
+
+#RechercheCasting {
+	float: left;
+	margin-left: 23.5%;
+	margin-top: 0.5%;
+	margin-bottom: 2%;
+	font-size: 30px;
+	color: #fff;
+	font-weight: bold;
+}
+
+#TitreCasting{
+	float: left;
+	margin-left: -43%;
+	margin-top: 12%;
+	font-size: 20px;
+}
+
+#TextNom{
+	float: left;
+	margin-left: -29.5%;
+	margin-top: 12.2%;
+	font-size: 15px;
+	width: 20%;
+}
+
+#ListeMetierCasting{
+	float: left;
+	margin-left: -37.5%;
+	margin-top: 20%;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#Option1{
+	float: left;
+	margin-left: -42%;
+	margin-top: 28.5%;
+	font-size: 20px;
+	width: 20%;
+}
+
+#TextOption1{
+	float: left;
+	margin-left: -29%;
+	margin-top: 27%;
+	font-size: 20px;
+	width: 20%;
+}
+
+#DateCreationCasting{
+	float: left;
+	margin-left: -52%;
+	margin-top: 35%;
+	font-size: 20px;
+	width: 26%;
+}
+
+#DateCreationCasting{
+	float: left;
+	margin-left: -50%;
+	margin-top: 35%;
+	font-size: 20px;
+	width: 26%;
+}
+
+#DateCrea{
+	float: left;
+	margin-left: -22%;
+	margin-top: 35%;
+	font-size: 15px;
+	width: 15%;
+}
+
+#ButtonValide{
+	float: left;
+	margin-left: -36%;
+	margin-top: 43%;
+	font-size: 15px;
+	width: 18%;
+}

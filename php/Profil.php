@@ -4,13 +4,13 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<link rel="stylesheet" type="text/css" href="../css/Casting.css"/>
+	<link rel="stylesheet" type="text/css" href="../css/Profil.css"/>
 	<link rel="stylesheet" type="text/css" href="../css/PartieSpe/slide.css"/>
 	<link rel="stylesheet" type="text/css" href="../css/PartieCommune/Bas/PartieFooter.css"/>
     <link rel="stylesheet" type="text/css" href="../css/PartieCommune/Haut/PartieHeader.css"/>
     <link rel="stylesheet" type="text/css" href="../css/PartieCommune/Haut/PartieMenu.css"/>
 	
-	<title>Casting</title>
+	<title>Profil</title>
 </head>
 
 <body>
@@ -29,39 +29,43 @@
 			include 'Menu/Haut/PartieMenu.php';
 		?>
 
-		<div id="BlocCasting">
-			<img id="ImgCasting" src="http://127.0.0.1/SiteBts/image/Fond-Connexion.jpg" />
+		<div id="BlocProfil">
+			<img id="ImgProfil" src="http://127.0.0.1/SiteBts/image/Fond-Connexion.jpg" />
             
-			<span id="TitreCasting">Titre Casting</span>
+			<span id="NomProfil">Nom</span>
+			<span id="PrenomProfil">Prenom</span>
+			<span id="Age">Age :</span>
 
-			<span id="DateCreationCasting">Date de création :</span>
-			<span id="AdresseCasting">Adresse :</span>
+			<span id="Mail">Email :</span>
+			<span id="Telephone">Téléphone :</span>
+			<span id="Adresse"> Adrese :</span>
 
-			<span id="DescCasting">Description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<span id="DescProfil">Description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
 
-			<span id="MetierCasting">Metier désiré : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<span id="MetierProfil">Compétences : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
 
-			<span id="NbPersoRechCasting"> Profil rechercher : 8</span>
+			<span id="TexteSite"> Site de la sociéter :</span>
 
-			<span id="NbPersoActuCasting"> Profil trouver : 5</span>
+			<a id="Site" href="www.google.com">www.google.com</a>
 
 		    <form>
 		  		<input id="ButtonPhoto" type="button" name="ButtonPhoto" value="Photos" />
-                <input id="ButtonParticiper" type="button" name="ButtonParticiper" value="Particper" />
+                <input id="ButtonInfo" type="button" name="ButtonInfo" value="Information" />
+		  		<input id="ButtonCv" type="button" name="ButtonCv" value="Cv" />
             </form>
 		</div>
 
-		<div id="BestCasting">
+		<div id="BestProfil">
 			<span>gtgzt</span>
 		</div>
 	</div>
@@ -75,4 +79,3 @@
 
 	
 </html>
- 
